@@ -1,8 +1,5 @@
-![A Passionate WordPress Theme](https://scontent.fdac23-1.fna.fbcdn.net/v/t39.30808-6/245439289_555200785594180_6666500911604550597_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=8bfeb9&_nc_eui2=AeGJPP8BXhpt01i8j-SqNpigsaAe3HzhIvGxoB7cfOEi8U8QFND1wZz_WzaGyrCVYjcQvASFBJRLPe1FuUF--FiY&_nc_ohc=Tf1TwiTNCYcAX-6Httj&_nc_ht=scontent.fdac23-1.fna&oh=8542d5c1a1c7d1fc75b90d574daf35b2&oe=617D1177)
-
 ### Hi there 👋, This is Sajidur Rahman
 #### A Passionate WordPress Theme
-
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
 Skills: HTML / CSS / Bootstrap / JavaScript / PHP / WordPress 
